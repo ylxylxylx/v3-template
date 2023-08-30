@@ -1,0 +1,17 @@
+:root {
+  --fontColor: #d4fefa;
+  --borderColor: #446b8c;
+  --hoverColor: #145473;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  color: var(--fontColor);
+}
